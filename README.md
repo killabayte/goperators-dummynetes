@@ -1,2 +1,4 @@
 # goperators-dummynetes
-Fun pet project for the learning kubernetes operators development. 
+Fun pet project for the learning kubernetes operators development.
+
+// TBD
